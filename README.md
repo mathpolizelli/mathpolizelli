@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Eduardo, dev e estudante de engenharia de software!
+## Olá! Eu sou o Matheus Polizelli!
 
 Sou estudante de Engenharia de Software, desenvolvedor e apaixonado por tecnologia!
 
